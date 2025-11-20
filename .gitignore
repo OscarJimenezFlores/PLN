@@ -1,0 +1,20 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon thumbnails
+Icon
+
+# Finder settings
+._*
+
+# Spotlight metadata
+.Spotlight-V100
+
+# Time Machine
+.TemporaryItems
+.Trashes
+
+# Disk image metadata
+.fseventsd
